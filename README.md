@@ -1,4 +1,4 @@
-# Pharmacy Management System
+# 💻 Pharmacy Management System
 
 A desktop pharmacy management application developed in **Python** using **Tkinter**, designed as a coursework project at the University of Economics – Varna.
 
@@ -37,5 +37,19 @@ The main window includes several buttons for interacting with the system:
 - Python 3.x
 - Tkinter (for GUI)
 - CSV module (for data handling)
+
+---
+
+## 👨‍💻 Author
+
+- **Danail Georgiev(me)**
+- **Desislava Dimitrova**
+- **Miryam Husein**
+
+---
+
+## 📅 Year
+
+**2023**
 
 ---
