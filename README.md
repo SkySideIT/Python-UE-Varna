@@ -40,6 +40,17 @@ The main window includes several buttons for interacting with the system:
 
 ---
 
+## 📸 Screenshots
+
+<img width="943" height="827" alt="image" src="https://github.com/user-attachments/assets/4c476bba-a14c-478a-b09a-ad17a18925fa" />
+<img width="975" height="332" alt="image" src="https://github.com/user-attachments/assets/1d0651a1-32fb-489f-9678-7086a72f710c" />
+<img width="977" height="497" alt="image" src="https://github.com/user-attachments/assets/9ef2f88e-df62-42a0-8cd0-6b2a030c2759" />
+<img width="1007" height="503" alt="image" src="https://github.com/user-attachments/assets/a021fa67-9014-4640-95f3-fdb9c8d9df1c" />
+<img width="726" height="380" alt="image" src="https://github.com/user-attachments/assets/4ae4d335-2794-441d-bb10-2182faced490" />
+<img width="712" height="402" alt="image" src="https://github.com/user-attachments/assets/c394c350-9605-4cd2-893f-df136c3588e8" />
+
+---
+
 ## 👨‍💻 Author
 
 - **Danail Georgiev(me)**
